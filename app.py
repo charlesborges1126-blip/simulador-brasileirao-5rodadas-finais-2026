@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Simulador Brasileirão 2026 - By Charles Borges", page_icon="⚽", layout="centered")
 
-st.title("🏆 Simulador do Título - Brasileirão 2026")
+st.title("🏆 Simulador do Título - Brasileirão 2026 - By Charles Borges")
 st.markdown("Simule os resultados das últimas rodadas e veja quem leva a taça entre **Flamengo** e **Palmeiras**!")
 
 col1, col2 = st.columns(2)
